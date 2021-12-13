@@ -12,4 +12,7 @@ Once you've created a pull request, you can push commits from your branch to add
 
 Fetch: The "git fetch" command is used to pull the updates from remote-tracking branches. Additionally, we can get the updates that have been pushed to our remote branches to our local machines. 
 
+Stash : The git stash command enables you to switch branches without committing the current branch.
+Generally, the stash's meaning is "store something safely in a hidden place." The sense in Git is also the same for stash; Git temporarily saves your data safely without committing.
+
 
