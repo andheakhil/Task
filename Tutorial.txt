@@ -9,3 +9,7 @@ Pull request:Pull request allows you to announce a change made by you in the bra
 Pull request is created when you committed a change in the GitHub project, and you want it to be reviewed by other members. You can commit the changes into a new branch or an existing branch.
 Once you've created a pull request, you can push commits from your branch to add them to your existing pull request.
 
+
+Fetch: The "git fetch" command is used to pull the updates from remote-tracking branches. Additionally, we can get the updates that have been pushed to our remote branches to our local machines. 
+
+
