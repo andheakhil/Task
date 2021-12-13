@@ -21,4 +21,6 @@ Branch :  The git branch command allows you to create, list, rename and delete b
 
 Commit : A commit command is used to fetch updates from the staging area to the repository.
 
+Checkout : The git checkout command is used to switch between branches in a repository. Be careful with your staged files and commits when switching between branches.
+
 
