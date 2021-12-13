@@ -23,4 +23,6 @@ Commit : A commit command is used to fetch updates from the staging area to the 
 
 Checkout : The git checkout command is used to switch between branches in a repository. Be careful with your staged files and commits when switching between branches.
 
+Push : The "git push" command is used to push into the repository. The push command can be considered as a tool to transfer commits between local and remote repositories. 
+
 
