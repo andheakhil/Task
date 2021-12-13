@@ -27,4 +27,6 @@ Push : The "git push" command is used to push into the repository. The push comm
 
 Pull : The pull command is used to access the changes (commits)from a remote repository to the local repository. It updates the local branches with the remote-tracking branches.
 
+Status : The git status command is used to display the state of the repository and staging area.
+
 
