@@ -25,4 +25,6 @@ Checkout : The git checkout command is used to switch between branches in a repo
 
 Push : The "git push" command is used to push into the repository. The push command can be considered as a tool to transfer commits between local and remote repositories. 
 
+Pull : The pull command is used to access the changes (commits)from a remote repository to the local repository. It updates the local branches with the remote-tracking branches.
+
 
